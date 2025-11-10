@@ -6,3 +6,6 @@ my_spark = SparkSession.builder.appName('my_spark').getOrCreate()
 
 # Print my_spark
 print(my_spark)
+
+
+# load the data
